@@ -1,0 +1,15 @@
+
+tr {
+  cursor: move !important;
+}
+table{
+    width:100%;
+}
+footer {
+     background: white !important; 
+    padding: 60px 0;
+}
+.form-check {
+    float: left;
+    margin-left: 10px;
+}

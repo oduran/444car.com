@@ -1,0 +1,55 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Plural-Forms: nplurals = 2; plural = (n > 1);\n"
+"Language: tr\n"
+"mime-version: 1.0\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: E:\nittim\ClientApp\src\components\Login.js:41
+msgid "You can create an account for free."
+msgstr "Ücretsiz hesap oluşturabilirsin."
+
+#: E:\nittim\ClientApp\src\components\Login.js:157
+msgid "Forgot password?"
+msgstr "Parolanı mı unuttun?"
+
+#: E:\nittim\ClientApp\src\components\NavMenu.js:55
+msgid "Login"
+msgstr "Giriş"
+
+#: E:\nittim\ClientApp\src\components\Login.js:39
+msgid "Welcome!"
+msgstr "Hoşgeldiniz!"
+
+#: E:\nittim\ClientApp\src\components\Login.js:125
+msgid "Password"
+msgstr "Parola"
+
+#: E:\nittim\ClientApp\src\components\Login.js:115
+msgid "Email"
+msgstr "Eposta"
+
+#: E:\nittim\ClientApp\src\components\Login.js:70
+msgid "Sign in with"
+msgstr "Bunlardan biriyle gir"
+
+#: E:\nittim\ClientApp\src\components\Login.js:105
+msgid "Or sign in with credentials"
+msgstr "Ya da eposta ile gir"
+
+#: E:\nittim\ClientApp\src\components\Login.js:138
+msgid "Remember me"
+msgstr "Beni hatırla"
+
+#: E:\nittim\ClientApp\src\components\Login.js:143
+msgid "Sign in"
+msgstr "Giriş"
+
+#: E:\nittim\ClientApp\src\components\Login.js:165
+msgid "Create new account"
+msgstr "Yeni hesap oluştur"
+
+#: E:\nittim\ClientApp\src\components\NavMenu.js:49
+msgid "Home"
+msgstr "Ana Sayfa"

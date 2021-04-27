@@ -1,0 +1,90 @@
+{
+  "charset": "utf-8",
+  "headers": {
+    "content-type": "text/plain; charset=utf-8",
+    "plural-forms": "nplurals = 2; plural = (n > 1);",
+    "language": "ger",
+    "mime-version": "1.0",
+    "content-transfer-encoding": "8bit"
+  },
+  "translations": {
+    "": {
+      "": {
+        "msgid": "",
+        "msgstr": [ "Content-Type: text/plain; charset=utf-8\nPlural-Forms: nplurals = 2; plural = (n > 1);\nLanguage: tr\nmime-version: 1.0\nContent-Transfer-Encoding: 8bit\n" ]
+      },
+      "You can create an account for free.": {
+        "msgid": "You can create an account for free.",
+        "msgstr": [ "Ücretsiz hesap oluşturabilirsin." ]
+      },
+      "Forgot password?": {
+        "msgid": "Forgot password?",
+        "msgstr": [ "Parolanı mı unuttun?" ]
+      },
+      "Login": {
+        "msgid": "Login",
+        "msgstr": [ "Giriş" ]
+      },
+      "Welcome!": {
+        "msgid": "Welcome!",
+        "msgstr": [ "Hoşgeldiniz!" ]
+      },
+      "Password": {
+        "msgid": "Password",
+        "msgstr": [ "Parola" ]
+      },
+      "Email": {
+        "msgid": "Email",
+        "msgstr": [ "Eposta" ]
+      },
+      "Sign in with": {
+        "msgid": "Sign in with",
+        "msgstr": [ "Bunlardan biriyle gir" ]
+      },
+      "Or sign in with credentials": {
+        "msgid": "Or sign in with credentials",
+        "msgstr": [ "Ya da eposta ile gir" ]
+      },
+      "Remember me": {
+        "msgid": "Remember me",
+        "msgstr": [ "Beni hatırla" ]
+      },
+      "Create new account": {
+        "msgid": "Create new account",
+        "msgstr": [ "Yeni hesap oluştur" ]
+      },
+      "Home": {
+        "msgid": "Home",
+        "msgstr": [ "Ana Sayfa" ]
+      },
+      "Select Language": {
+        "msgid": "Select Language",
+        "msgstr": [ "Dil Seçiniz" ]
+      },
+      "Register": {
+        "msgid": "Register",
+        "msgstr": [ "Kayıt Ol" ]
+      },
+      "Vehicle Owner": {
+        "msgid": "Vehicle Owner",
+        "msgstr": [ "Araç Sahibi" ]
+      },
+      "Vehicle Company": {
+        "msgid": "Vehicle Company",
+        "msgstr": [ "Araç Şirketi" ]
+      },
+      "Sign In": {
+        "msgid": "Sign In",
+        "msgstr": [ "Oturum Aç" ]
+      },
+      "Rent": {
+        "msgid": "Rent",
+        "msgstr": [ "Mieten" ]
+      },
+      "Your Own Car": {
+        "msgid": "Your Own Car",
+        "msgstr": [ "Sie Ihr eigenes Auto" ]
+      }
+    }
+  }
+}
