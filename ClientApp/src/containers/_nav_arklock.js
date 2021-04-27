@@ -1,4 +1,6 @@
-﻿export default [
+﻿// npm install --save-dev @iconify/react @iconify-icons/cil
+
+export default [
   {
     _tag: "CSidebarNavItem",
     name: "Dashboard",
@@ -9,7 +11,7 @@
     _tag: "CSidebarNavItem",
     name: "İlan Ekle",
     to: "/dashboard/PublishAd",
-    icon: "cil-list",
+      icon: "cil-file",
     },
     {
         _tag: "CSidebarNavItem",
@@ -19,9 +21,9 @@
     },
     {
       _tag: "CSidebarNavItem",
-      name: "Son İlanlar",
+      name: "Onay Bekleyen İlanlar",
       to: "/dashboard/Ads",
-      icon: "cil-list",
+      icon: "cil-check",
   },
   {
     _tag: "CSidebarNavItem",
@@ -33,13 +35,13 @@
         _tag: "CSidebarNavItem",
         name: "User Profiles",
         to: "/dashboard/userprofiles",
-        icon: "cil-user",
+        icon: "cil-people",
     },
   {
     _tag: "CSidebarNavItem",
     name: "FAQs",
     to: "/dashboard/faqs",
-    icon: "cil-list",
+      icon: "cil-options",
   },
   //{
   //  _tag: "CSidebarNavItem",

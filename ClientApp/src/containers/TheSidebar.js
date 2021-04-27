@@ -53,10 +53,10 @@ const TheSidebar = () => {
             } else {
                 let userInfo =  await get (Config.serverUrl+ "user/GetUserProfileById");
                 let loginType = (userInfo.data.logintype);
-                if(loginType===3){
+                setLastAds(false);
+                if (loginType === 3 || loginType === 5){
                     setLastAds(true);
                 }
-               setLastAds(false);
             }
           } else {
             setLastAds(false);

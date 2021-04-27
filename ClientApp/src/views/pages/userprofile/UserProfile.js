@@ -82,7 +82,10 @@ export default class UserProfile extends React.Component {
         this._reCaptchaRef = React.createRef();
     }
     async componentDidMount() {
-        
+        if (localStorage.getItem("reload") == "true") {
+            localStorage.setItem("reload", "false");
+            window.location.reload();
+        }
         this.getUserProfile();
     }
 
